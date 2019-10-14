@@ -1,5 +1,5 @@
 # TensorFlow Java tutorial with Spring Framework and Gradle
-Object detection server side application sample program written in Java. It uses the TensorFlow Java API with a trained YOLOv2 model. The server application is implemented with Spring Framework and it is built by Gradle.
+Object detection server side application sample program written in Java. It uses the TensorFlow Java API with a trained YOLOv2 model. The server application is implemented with Spring Framework and it is built by Gradle. 
 
 #### How it works?
 
